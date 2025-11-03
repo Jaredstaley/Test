@@ -3,7 +3,6 @@ check = "yes"
 r_p_s = ["rock","paper","scissors"]
 
 
-
 while check == "yes":
     # Getting player choice and verifying it
     player = input("Enter a choice (rock, paper, scissors):").lower
